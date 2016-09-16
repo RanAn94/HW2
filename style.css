@@ -19,11 +19,14 @@ header
 	margin-right:auto;
 	margin-left:auto;}
 
-footer{width:80%;
+footer{width:50%;
 	background-color: white;
 	color:red;
+	border-color:orange;
+	border-style:solid;
+	border-width:5px;
 	margin-right:auto;
-	margin-left:auto;}
+	margin-left:620px;}
 	
 h1{
 	width:80%;
@@ -36,9 +39,17 @@ font-size:1.5em;
 margin:20px;}
 
 picture{
+	border-color:orange;
+	border-style:solid;
+	border-width:5px;
 float:left;
 margin-left:150px;}
 
-section{width:50%;
-margin-left:auto;
-margin-left:auto;}
+section{
+	border-color:orange;
+	border-style:solid;
+	border-width:5px;
+	width:50%;
+margin-left:620px;
+margin-right:auto;}
+
